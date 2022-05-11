@@ -39,7 +39,7 @@ const WinboxReact = ({
     onclose: () => onClose()
   })
 
-  return <div></div>
+  return <wb>a winbox</wb>
 }
 
 const func = () => {}
